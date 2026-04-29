@@ -1,0 +1,320 @@
+body:
+  children:
+  - $ref: '#/texts/0'
+  content_layer: body
+  label: unspecified
+  name: _root_
+  self_ref: '#/body'
+form_items: []
+furniture:
+  children: []
+  content_layer: furniture
+  label: unspecified
+  name: _root_
+  self_ref: '#/furniture'
+groups:
+- children:
+  - $ref: '#/texts/6'
+  - $ref: '#/texts/7'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/texts/5'
+  self_ref: '#/groups/0'
+- children:
+  - $ref: '#/texts/9'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/texts/5'
+  self_ref: '#/groups/1'
+key_value_items: []
+name: test_01
+origin:
+  binary_hash: 1728408555980862324
+  filename: test_01.asciidoc
+  mimetype: text/asciidoc
+pages: {}
+pictures: []
+schema_name: DoclingDocument
+tables:
+- annotations: []
+  captions: []
+  children: []
+  content_layer: body
+  data:
+    grid:
+    - - col_span: 1
+        column_header: true
+        end_col_offset_idx: 1
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 0
+        text: Header 1
+      - col_span: 1
+        column_header: true
+        end_col_offset_idx: 2
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 0
+        text: Header 2
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 1
+        text: Value 1
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 1
+        text: Value 2
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 2
+        text: Value 3
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 2
+        text: Value 4
+    num_cols: 2
+    num_rows: 3
+    table_cells:
+    - col_span: 1
+      column_header: true
+      end_col_offset_idx: 1
+      end_row_offset_idx: 1
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 0
+      text: Header 1
+    - col_span: 1
+      column_header: true
+      end_col_offset_idx: 2
+      end_row_offset_idx: 1
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 0
+      text: Header 2
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 1
+      text: Value 1
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 1
+      text: Value 2
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 2
+      text: Value 3
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 2
+      text: Value 4
+  footnotes: []
+  label: table
+  parent:
+    $ref: '#/texts/10'
+  prov: []
+  references: []
+  self_ref: '#/tables/0'
+texts:
+- children:
+  - $ref: '#/texts/1'
+  - $ref: '#/texts/2'
+  - $ref: '#/texts/10'
+  content_layer: body
+  label: title
+  orig: 1st Sample Document Title
+  parent:
+    $ref: '#/body'
+  prov: []
+  self_ref: '#/texts/0'
+  text: 1st Sample Document Title
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: This is an abstract.
+  parent:
+    $ref: '#/texts/0'
+  prov: []
+  self_ref: '#/texts/1'
+  text: This is an abstract.
+- children:
+  - $ref: '#/texts/3'
+  - $ref: '#/texts/4'
+  - $ref: '#/texts/5'
+  content_layer: body
+  label: section_header
+  level: 1
+  orig: Section 1
+  parent:
+    $ref: '#/texts/0'
+  prov: []
+  self_ref: '#/texts/2'
+  text: Section 1
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: This is some introductory text in section 1.
+  parent:
+    $ref: '#/texts/2'
+  prov: []
+  self_ref: '#/texts/3'
+  text: This is some introductory text in section 1.
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: This spans multiple lines but should be treated as a single paragraph.
+  parent:
+    $ref: '#/texts/2'
+  prov: []
+  self_ref: '#/texts/4'
+  text: This spans multiple lines but should be treated as a single paragraph.
+- children:
+  - $ref: '#/groups/0'
+  - $ref: '#/texts/8'
+  - $ref: '#/groups/1'
+  content_layer: body
+  label: section_header
+  level: 2
+  orig: Subsection 1.1
+  parent:
+    $ref: '#/texts/2'
+  prov: []
+  self_ref: '#/texts/5'
+  text: Subsection 1.1
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: First list item
+  parent:
+    $ref: '#/groups/0'
+  prov: []
+  self_ref: '#/texts/6'
+  text: First list item
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: Second list item
+  parent:
+    $ref: '#/groups/0'
+  prov: []
+  self_ref: '#/texts/7'
+  text: Second list item
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: This is some introductory text in section 1.1.
+  parent:
+    $ref: '#/texts/5'
+  prov: []
+  self_ref: '#/texts/8'
+  text: This is some introductory text in section 1.1.
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: A dash list item
+  parent:
+    $ref: '#/groups/1'
+  prov: []
+  self_ref: '#/texts/9'
+  text: A dash list item
+- children:
+  - $ref: '#/texts/11'
+  - $ref: '#/tables/0'
+  content_layer: body
+  label: section_header
+  level: 1
+  orig: Section 2
+  parent:
+    $ref: '#/texts/0'
+  prov: []
+  self_ref: '#/texts/10'
+  text: Section 2
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: This is some text in section 2.
+  parent:
+    $ref: '#/texts/10'
+  prov: []
+  self_ref: '#/texts/11'
+  text: This is some text in section 2.
+version: 1.10.0

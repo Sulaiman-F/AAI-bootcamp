@@ -1,0 +1,1787 @@
+body:
+  children:
+  - $ref: '#/groups/0'
+  - $ref: '#/groups/1'
+  - $ref: '#/groups/3'
+  content_layer: body
+  label: unspecified
+  name: _root_
+  self_ref: '#/body'
+form_items: []
+furniture:
+  children: []
+  content_layer: furniture
+  label: unspecified
+  name: _root_
+  self_ref: '#/furniture'
+groups:
+- children:
+  - $ref: '#/texts/0'
+  - $ref: '#/texts/1'
+  - $ref: '#/tables/0'
+  content_layer: body
+  label: chapter
+  name: slide-0
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/0'
+- children:
+  - $ref: '#/texts/2'
+  - $ref: '#/texts/3'
+  - $ref: '#/groups/2'
+  - $ref: '#/texts/7'
+  - $ref: '#/texts/8'
+  content_layer: body
+  label: chapter
+  name: slide-1
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/1'
+- children:
+  - $ref: '#/texts/4'
+  - $ref: '#/texts/5'
+  - $ref: '#/texts/6'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/groups/1'
+  self_ref: '#/groups/2'
+- children:
+  - $ref: '#/groups/4'
+  - $ref: '#/groups/5'
+  - $ref: '#/texts/16'
+  - $ref: '#/groups/6'
+  - $ref: '#/texts/19'
+  - $ref: '#/groups/7'
+  - $ref: '#/groups/8'
+  - $ref: '#/texts/26'
+  content_layer: body
+  label: chapter
+  name: slide-2
+  parent:
+    $ref: '#/body'
+  self_ref: '#/groups/3'
+- children:
+  - $ref: '#/texts/9'
+  - $ref: '#/texts/10'
+  - $ref: '#/texts/11'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/groups/3'
+  self_ref: '#/groups/4'
+- children:
+  - $ref: '#/texts/12'
+  - $ref: '#/texts/13'
+  - $ref: '#/texts/14'
+  - $ref: '#/texts/15'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/groups/3'
+  self_ref: '#/groups/5'
+- children:
+  - $ref: '#/texts/17'
+  - $ref: '#/texts/18'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/groups/3'
+  self_ref: '#/groups/6'
+- children:
+  - $ref: '#/texts/20'
+  - $ref: '#/texts/21'
+  - $ref: '#/texts/22'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/groups/3'
+  self_ref: '#/groups/7'
+- children:
+  - $ref: '#/texts/23'
+  - $ref: '#/texts/24'
+  - $ref: '#/texts/25'
+  content_layer: body
+  label: list
+  name: list
+  parent:
+    $ref: '#/groups/3'
+  self_ref: '#/groups/8'
+key_value_items: []
+name: powerpoint_sample
+origin:
+  binary_hash: 15572290240354948364
+  filename: powerpoint_sample.pptx
+  mimetype: application/vnd.ms-powerpoint
+pages:
+  '1':
+    page_no: 1
+    size:
+      height: 6858000.0
+      width: 12192000.0
+  '2':
+    page_no: 2
+    size:
+      height: 6858000.0
+      width: 12192000.0
+  '3':
+    page_no: 3
+    size:
+      height: 6858000.0
+      width: 12192000.0
+pictures: []
+schema_name: DoclingDocument
+tables:
+- annotations: []
+  captions: []
+  children: []
+  content_layer: body
+  data:
+    grid:
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 0
+        text: ''
+      - col_span: 3
+        column_header: true
+        end_col_offset_idx: 4
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 0
+        text: Class1
+      - col_span: 3
+        column_header: true
+        end_col_offset_idx: 4
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 0
+        text: Class1
+      - col_span: 3
+        column_header: true
+        end_col_offset_idx: 4
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 0
+        text: Class1
+      - col_span: 3
+        column_header: true
+        end_col_offset_idx: 7
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 0
+        text: Class2
+      - col_span: 3
+        column_header: true
+        end_col_offset_idx: 7
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 0
+        text: Class2
+      - col_span: 3
+        column_header: true
+        end_col_offset_idx: 7
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 0
+        text: Class2
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 1
+        text: ''
+      - col_span: 2
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 1
+        text: A merged with B
+      - col_span: 2
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 1
+        text: A merged with B
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 1
+        text: C
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 1
+        text: A
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 1
+        text: B
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 1
+        text: C
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 2
+        text: R1
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 2
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 2
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 2
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 2
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 2
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 2
+        text: 'True'
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 3
+        text: R2
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 3
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 3
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 3
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 3
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 3
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 3
+        text: ''
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 0
+        start_row_offset_idx: 4
+        text: R3
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 4
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 4
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 4
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 4
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 4
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 4
+        text: ''
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 0
+        start_row_offset_idx: 4
+        text: R3
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 5
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 5
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 5
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 5
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 5
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 5
+        text: ''
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 3
+        start_col_offset_idx: 0
+        start_row_offset_idx: 6
+        text: R4
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 7
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 6
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 7
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 6
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 7
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 6
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 7
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 6
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 7
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 6
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 7
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 6
+        text: ''
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 3
+        start_col_offset_idx: 0
+        start_row_offset_idx: 6
+        text: R4
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 8
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 7
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 8
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 7
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 8
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 7
+        text: ''
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 8
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 7
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 8
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 7
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 8
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 7
+        text: 'False'
+    - - col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 3
+        start_col_offset_idx: 0
+        start_row_offset_idx: 6
+        text: R4
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 8
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 8
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 8
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 8
+        text: 'False'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 8
+        text: 'True'
+      - col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 9
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 8
+        text: 'False'
+    num_cols: 7
+    num_rows: 9
+    table_cells:
+    - col_span: 3
+      column_header: true
+      end_col_offset_idx: 4
+      end_row_offset_idx: 1
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 0
+      text: Class1
+    - col_span: 3
+      column_header: true
+      end_col_offset_idx: 7
+      end_row_offset_idx: 1
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 0
+      text: Class2
+    - col_span: 2
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 1
+      text: A merged with B
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 1
+      text: C
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 1
+      text: A
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 1
+      text: B
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 1
+      text: C
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 2
+      text: R1
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 2
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 2
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 2
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 2
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 2
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 3
+      text: R2
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 3
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 3
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 2
+      start_col_offset_idx: 0
+      start_row_offset_idx: 4
+      text: R3
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 4
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 4
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 5
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 5
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 3
+      start_col_offset_idx: 0
+      start_row_offset_idx: 6
+      text: R4
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 7
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 6
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 7
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 6
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 8
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 7
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 8
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 7
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 8
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 7
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 8
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 7
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 8
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 8
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 8
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 8
+      text: 'False'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 8
+      text: 'True'
+    - col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 9
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 8
+      text: 'False'
+  footnotes: []
+  label: table
+  parent:
+    $ref: '#/groups/0'
+  prov:
+  - bbox:
+      b: 1945640.0
+      coord_origin: BOTTOMLEFT
+      l: 2031999.0
+      r: 10160000.0
+      t: 5283200.0
+    charspan:
+    - 0
+    - 0
+    page_no: 1
+  references: []
+  self_ref: '#/tables/0'
+texts:
+- children: []
+  content_layer: body
+  label: title
+  orig: Test Table Slide
+  parent:
+    $ref: '#/groups/0'
+  prov:
+  - bbox:
+      b: 644526.0
+      coord_origin: BOTTOMLEFT
+      l: 1524000.0
+      r: 10668000.0
+      t: 1576935.0
+    charspan:
+    - 0
+    - 16
+    page_no: 1
+  self_ref: '#/texts/0'
+  text: Test Table Slide
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: With footnote
+  parent:
+    $ref: '#/groups/0'
+  prov:
+  - bbox:
+      b: 5433848.0
+      coord_origin: BOTTOMLEFT
+      l: 1524000.0
+      r: 10668000.0
+      t: 5888420.0
+    charspan:
+    - 0
+    - 13
+    page_no: 1
+  self_ref: '#/texts/1'
+  text: With footnote
+- children: []
+  content_layer: body
+  label: title
+  orig: Second slide title
+  parent:
+    $ref: '#/groups/1'
+  prov:
+  - bbox:
+      b: 365125.0
+      coord_origin: BOTTOMLEFT
+      l: 838200.0
+      r: 11353800.0
+      t: 1690688.0
+    charspan:
+    - 0
+    - 18
+    page_no: 2
+  self_ref: '#/texts/2'
+  text: Second slide title
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: "Let\u2019s introduce a list"
+  parent:
+    $ref: '#/groups/1'
+  prov:
+  - bbox:
+      b: 1825625.0
+      coord_origin: BOTTOMLEFT
+      l: 838200.0
+      r: 4461831.0
+      t: 3962400.0
+    charspan:
+    - 0
+    - 50
+    page_no: 2
+  self_ref: '#/texts/3'
+  text: "Let\u2019s introduce a list"
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: With foo
+  parent:
+    $ref: '#/groups/2'
+  prov:
+  - bbox:
+      b: 1825625.0
+      coord_origin: BOTTOMLEFT
+      l: 838200.0
+      r: 4461831.0
+      t: 3962400.0
+    charspan:
+    - 0
+    - 50
+    page_no: 2
+  self_ref: '#/texts/4'
+  text: With foo
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: Bar
+  parent:
+    $ref: '#/groups/2'
+  prov:
+  - bbox:
+      b: 1825625.0
+      coord_origin: BOTTOMLEFT
+      l: 838200.0
+      r: 4461831.0
+      t: 3962400.0
+    charspan:
+    - 0
+    - 50
+    page_no: 2
+  self_ref: '#/texts/5'
+  text: Bar
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: And baz things
+  parent:
+    $ref: '#/groups/2'
+  prov:
+  - bbox:
+      b: 1825625.0
+      coord_origin: BOTTOMLEFT
+      l: 838200.0
+      r: 4461831.0
+      t: 3962400.0
+    charspan:
+    - 0
+    - 50
+    page_no: 2
+  self_ref: '#/texts/6'
+  text: And baz things
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: A rectangle shape with this text inside.
+  parent:
+    $ref: '#/groups/1'
+  prov:
+  - bbox:
+      b: 1344058.0
+      coord_origin: BOTTOMLEFT
+      l: 6180463.0
+      r: 10256704.0
+      t: 5221995.0
+    charspan:
+    - 0
+    - 40
+    page_no: 2
+  self_ref: '#/texts/7'
+  text: A rectangle shape with this text inside.
+- children: []
+  content_layer: notes
+  label: text
+  orig: Some notes on the second slide.
+  parent:
+    $ref: '#/groups/1'
+  prov:
+  - bbox:
+      b: 0.0
+      coord_origin: TOPLEFT
+      l: 0.0
+      r: 0.0
+      t: 0.0
+    charspan:
+    - 0
+    - 31
+    page_no: 2
+  self_ref: '#/texts/8'
+  text: Some notes on the second slide.
+- children: []
+  content_layer: body
+  enumerated: true
+  label: list_item
+  marker: '1.'
+  orig: List item4
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 2434665.0
+      coord_origin: BOTTOMLEFT
+      l: 2423634.0
+      r: 3928277.0
+      t: 3357995.0
+    charspan:
+    - 0
+    - 32
+    page_no: 3
+  self_ref: '#/texts/9'
+  text: List item4
+- children: []
+  content_layer: body
+  enumerated: true
+  label: list_item
+  marker: '2.'
+  orig: List item5
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 2434665.0
+      coord_origin: BOTTOMLEFT
+      l: 2423634.0
+      r: 3928277.0
+      t: 3357995.0
+    charspan:
+    - 0
+    - 32
+    page_no: 3
+  self_ref: '#/texts/10'
+  text: List item5
+- children: []
+  content_layer: body
+  enumerated: true
+  label: list_item
+  marker: '3.'
+  orig: List item6
+  parent:
+    $ref: '#/groups/4'
+  prov:
+  - bbox:
+      b: 2434665.0
+      coord_origin: BOTTOMLEFT
+      l: 2423634.0
+      r: 3928277.0
+      t: 3357995.0
+    charspan:
+    - 0
+    - 32
+    page_no: 3
+  self_ref: '#/texts/11'
+  text: List item6
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: I1
+  parent:
+    $ref: '#/groups/5'
+  prov:
+  - bbox:
+      b: 2457553.0
+      coord_origin: BOTTOMLEFT
+      l: 4453634.0
+      r: 5109583.0
+      t: 3657882.0
+    charspan:
+    - 0
+    - 11
+    page_no: 3
+  self_ref: '#/texts/12'
+  text: I1
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: I2
+  parent:
+    $ref: '#/groups/5'
+  prov:
+  - bbox:
+      b: 2457553.0
+      coord_origin: BOTTOMLEFT
+      l: 4453634.0
+      r: 5109583.0
+      t: 3657882.0
+    charspan:
+    - 0
+    - 11
+    page_no: 3
+  self_ref: '#/texts/13'
+  text: I2
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: I3
+  parent:
+    $ref: '#/groups/5'
+  prov:
+  - bbox:
+      b: 2457553.0
+      coord_origin: BOTTOMLEFT
+      l: 4453634.0
+      r: 5109583.0
+      t: 3657882.0
+    charspan:
+    - 0
+    - 11
+    page_no: 3
+  self_ref: '#/texts/14'
+  text: I3
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: I4
+  parent:
+    $ref: '#/groups/5'
+  prov:
+  - bbox:
+      b: 2457553.0
+      coord_origin: BOTTOMLEFT
+      l: 4453634.0
+      r: 5109583.0
+      t: 3657882.0
+    charspan:
+    - 0
+    - 11
+    page_no: 3
+  self_ref: '#/texts/15'
+  text: I4
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: 'Some info:'
+  parent:
+    $ref: '#/groups/3'
+  prov:
+  - bbox:
+      b: 2457554.0
+      coord_origin: BOTTOMLEFT
+      l: 5634940.0
+      r: 6881050.0
+      t: 3380884.0
+    charspan:
+    - 0
+    - 24
+    page_no: 3
+  self_ref: '#/texts/16'
+  text: 'Some info:'
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: Item A
+  parent:
+    $ref: '#/groups/6'
+  prov:
+  - bbox:
+      b: 2457554.0
+      coord_origin: BOTTOMLEFT
+      l: 5634940.0
+      r: 6881050.0
+      t: 3380884.0
+    charspan:
+    - 0
+    - 24
+    page_no: 3
+  self_ref: '#/texts/17'
+  text: Item A
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: Item B
+  parent:
+    $ref: '#/groups/6'
+  prov:
+  - bbox:
+      b: 2457554.0
+      coord_origin: BOTTOMLEFT
+      l: 5634940.0
+      r: 6881050.0
+      t: 3380884.0
+    charspan:
+    - 0
+    - 24
+    page_no: 3
+  self_ref: '#/texts/18'
+  text: Item B
+- children: []
+  content_layer: body
+  label: paragraph
+  orig: Maybe a list?
+  parent:
+    $ref: '#/groups/3'
+  prov:
+  - bbox:
+      b: 2459421.0
+      coord_origin: BOTTOMLEFT
+      l: 7531336.0
+      r: 9009626.0
+      t: 3659750.0
+    charspan:
+    - 0
+    - 31
+    page_no: 3
+  self_ref: '#/texts/19'
+  text: Maybe a list?
+- children: []
+  content_layer: body
+  enumerated: true
+  label: list_item
+  marker: '1.'
+  orig: List1
+  parent:
+    $ref: '#/groups/7'
+  prov:
+  - bbox:
+      b: 2459421.0
+      coord_origin: BOTTOMLEFT
+      l: 7531336.0
+      r: 9009626.0
+      t: 3659750.0
+    charspan:
+    - 0
+    - 31
+    page_no: 3
+  self_ref: '#/texts/20'
+  text: List1
+- children: []
+  content_layer: body
+  enumerated: true
+  label: list_item
+  marker: '2.'
+  orig: List2
+  parent:
+    $ref: '#/groups/7'
+  prov:
+  - bbox:
+      b: 2459421.0
+      coord_origin: BOTTOMLEFT
+      l: 7531336.0
+      r: 9009626.0
+      t: 3659750.0
+    charspan:
+    - 0
+    - 31
+    page_no: 3
+  self_ref: '#/texts/21'
+  text: List2
+- children: []
+  content_layer: body
+  enumerated: true
+  label: list_item
+  marker: '3.'
+  orig: List3
+  parent:
+    $ref: '#/groups/7'
+  prov:
+  - bbox:
+      b: 2459421.0
+      coord_origin: BOTTOMLEFT
+      l: 7531336.0
+      r: 9009626.0
+      t: 3659750.0
+    charspan:
+    - 0
+    - 31
+    page_no: 3
+  self_ref: '#/texts/22'
+  text: List3
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: 'l1 '
+  parent:
+    $ref: '#/groups/8'
+  prov:
+  - bbox:
+      b: 2434665.0
+      coord_origin: BOTTOMLEFT
+      l: 9404392.0
+      r: 10060341.0
+      t: 3357995.0
+    charspan:
+    - 0
+    - 9
+    page_no: 3
+  self_ref: '#/texts/23'
+  text: 'l1 '
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: l2
+  parent:
+    $ref: '#/groups/8'
+  prov:
+  - bbox:
+      b: 2434665.0
+      coord_origin: BOTTOMLEFT
+      l: 9404392.0
+      r: 10060341.0
+      t: 3357995.0
+    charspan:
+    - 0
+    - 9
+    page_no: 3
+  self_ref: '#/texts/24'
+  text: l2
+- children: []
+  content_layer: body
+  enumerated: false
+  label: list_item
+  marker: ''
+  orig: l3
+  parent:
+    $ref: '#/groups/8'
+  prov:
+  - bbox:
+      b: 2434665.0
+      coord_origin: BOTTOMLEFT
+      l: 9404392.0
+      r: 10060341.0
+      t: 3357995.0
+    charspan:
+    - 0
+    - 9
+    page_no: 3
+  self_ref: '#/texts/25'
+  text: l3
+- children: []
+  content_layer: notes
+  label: text
+  orig: 'Final notes on the third slide.
+
+    Second line of notes.'
+  parent:
+    $ref: '#/groups/3'
+  prov:
+  - bbox:
+      b: 0.0
+      coord_origin: TOPLEFT
+      l: 0.0
+      r: 0.0
+      t: 0.0
+    charspan:
+    - 0
+    - 53
+    page_no: 3
+  self_ref: '#/texts/26'
+  text: 'Final notes on the third slide.
+
+    Second line of notes.'
+version: 1.10.0

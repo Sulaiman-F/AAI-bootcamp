@@ -1,0 +1,1790 @@
+body:
+  children:
+  - $ref: '#/texts/0'
+  - $ref: '#/texts/1'
+  - $ref: '#/texts/2'
+  - $ref: '#/texts/3'
+  - $ref: '#/texts/4'
+  - $ref: '#/tables/0'
+  - $ref: '#/texts/6'
+  - $ref: '#/texts/7'
+  - $ref: '#/texts/8'
+  content_layer: body
+  label: unspecified
+  name: _root_
+  self_ref: '#/body'
+form_items: []
+furniture:
+  children: []
+  content_layer: furniture
+  label: unspecified
+  name: _root_
+  self_ref: '#/furniture'
+groups: []
+key_value_items: []
+name: 2305.03393v1-pg9-img
+origin:
+  binary_hash: 17975927720389090741
+  filename: 2305.03393v1-pg9-img.png
+  mimetype: application/pdf
+pages:
+  '1':
+    page_no: 1
+    size:
+      height: 1650.0
+      width: 1275.0
+pictures: []
+schema_name: DoclingDocument
+tables:
+- annotations: []
+  captions:
+  - $ref: '#/texts/5'
+  children:
+  - $ref: '#/texts/5'
+  content_layer: body
+  data:
+    grid:
+    - - bbox:
+          b: 760.1310221354166
+          coord_origin: TOPLEFT
+          l: 296.337890625
+          r: 388.4765625
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 1
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 0
+        start_row_offset_idx: 0
+        text: '# enc-layers'
+      - bbox:
+          b: 760.1310221354166
+          coord_origin: TOPLEFT
+          l: 395.947265625
+          r: 488.0859375
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 2
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 1
+        start_row_offset_idx: 0
+        text: '# dec-layers'
+      - bbox:
+          b: 747.65625
+          coord_origin: TOPLEFT
+          l: 493.06640625
+          r: 584.375
+          t: 718.54833984375
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 3
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 2
+        start_row_offset_idx: 0
+        text: Language
+      - bbox:
+          b: 731.023193359375
+          coord_origin: TOPLEFT
+          l: 672.36328125
+          r: 729.638671875
+          t: 707.7368977864584
+        col_span: 3
+        column_header: true
+        end_col_offset_idx: 6
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 0
+        text: TEDs
+      - bbox:
+          b: 731.023193359375
+          coord_origin: TOPLEFT
+          l: 672.36328125
+          r: 729.638671875
+          t: 707.7368977864584
+        col_span: 3
+        column_header: true
+        end_col_offset_idx: 6
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 0
+        text: TEDs
+      - bbox:
+          b: 731.023193359375
+          coord_origin: TOPLEFT
+          l: 672.36328125
+          r: 729.638671875
+          t: 707.7368977864584
+        col_span: 3
+        column_header: true
+        end_col_offset_idx: 6
+        end_row_offset_idx: 1
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 0
+        text: TEDs
+      - bbox:
+          b: 755.9727376302084
+          coord_origin: TOPLEFT
+          l: 820.947265625
+          r: 874.90234375
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 7
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 6
+        start_row_offset_idx: 0
+        text: mAP (0.75)
+      - bbox:
+          b: 755.9727376302084
+          coord_origin: TOPLEFT
+          l: 885.693359375
+          r: 983.642578125
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 8
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 7
+        start_row_offset_idx: 0
+        text: Inference time (secs)
+    - - bbox:
+          b: 760.1310221354166
+          coord_origin: TOPLEFT
+          l: 296.337890625
+          r: 388.4765625
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 1
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 0
+        start_row_offset_idx: 0
+        text: '# enc-layers'
+      - bbox:
+          b: 760.1310221354166
+          coord_origin: TOPLEFT
+          l: 395.947265625
+          r: 488.0859375
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 2
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 1
+        start_row_offset_idx: 0
+        text: '# dec-layers'
+      - bbox:
+          b: 747.65625
+          coord_origin: TOPLEFT
+          l: 493.06640625
+          r: 584.375
+          t: 718.54833984375
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 3
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 2
+        start_row_offset_idx: 0
+        text: Language
+      - bbox:
+          b: 759.2993977864584
+          coord_origin: TOPLEFT
+          l: 593.505859375
+          r: 654.1015625
+          t: 736.0131022135416
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 4
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 1
+        text: simple
+      - bbox:
+          b: 757.6360677083334
+          coord_origin: TOPLEFT
+          l: 662.40234375
+          r: 742.08984375
+          t: 737.6763509114584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 5
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 1
+        text: complex
+      - bbox:
+          b: 758.4676920572916
+          coord_origin: TOPLEFT
+          l: 765.33203125
+          r: 795.21484375
+          t: 735.181396484375
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 6
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 1
+        text: all
+      - bbox:
+          b: 755.9727376302084
+          coord_origin: TOPLEFT
+          l: 820.947265625
+          r: 874.90234375
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 7
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 6
+        start_row_offset_idx: 0
+        text: mAP (0.75)
+      - bbox:
+          b: 755.9727376302084
+          coord_origin: TOPLEFT
+          l: 885.693359375
+          r: 983.642578125
+          t: 707.7368977864584
+        col_span: 1
+        column_header: true
+        end_col_offset_idx: 8
+        end_row_offset_idx: 2
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 2
+        start_col_offset_idx: 7
+        start_row_offset_idx: 0
+        text: Inference time (secs)
+    - - bbox:
+          b: 796.7237955729166
+          coord_origin: TOPLEFT
+          l: 334.521484375
+          r: 351.123046875
+          t: 775.1007486979166
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 2
+        text: '6'
+      - bbox:
+          b: 796.7237955729166
+          coord_origin: TOPLEFT
+          l: 433.30078125
+          r: 449.90234375
+          t: 774.2691243489584
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 2
+        text: '6'
+      - bbox:
+          b: 811.6935221354166
+          coord_origin: TOPLEFT
+          l: 508.0078125
+          r: 571.09375
+          t: 762.6259765625
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 2
+        text: OTSL HTML
+      - bbox:
+          b: 811.6935221354166
+          coord_origin: TOPLEFT
+          l: 598.486328125
+          r: 649.12109375
+          t: 764.289306640625
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 2
+        text: 0.965 0.969
+      - bbox:
+          b: 813.3568522135416
+          coord_origin: TOPLEFT
+          l: 676.513671875
+          r: 728.80859375
+          t: 764.289306640625
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 2
+        text: 0.934 0.927
+      - bbox:
+          b: 813.3568522135416
+          coord_origin: TOPLEFT
+          l: 754.541015625
+          r: 805.17578125
+          t: 762.6259765625
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 2
+        text: 0.955 0.955
+      - bbox:
+          b: 813.3568522135416
+          coord_origin: TOPLEFT
+          l: 821.77734375
+          r: 872.412109375
+          t: 764.289306640625
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 2
+        text: 0.88 0.857
+      - bbox:
+          b: 813.3568522135416
+          coord_origin: TOPLEFT
+          l: 912.255859375
+          r: 959.5703125
+          t: 762.6259765625
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 8
+        end_row_offset_idx: 3
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 7
+        start_row_offset_idx: 2
+        text: 2.73 5.39
+    - - bbox:
+          b: 852.4444986979166
+          coord_origin: TOPLEFT
+          l: 334.521484375
+          r: 351.123046875
+          t: 830.821533203125
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 3
+        text: '4'
+      - bbox:
+          b: 852.4444986979166
+          coord_origin: TOPLEFT
+          l: 433.30078125
+          r: 450.732421875
+          t: 829.9899088541666
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 3
+        text: '4'
+      - bbox:
+          b: 866.5826009114584
+          coord_origin: TOPLEFT
+          l: 508.0078125
+          r: 569.43359375
+          t: 819.1783854166666
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 3
+        text: OTSL HTML
+      - bbox:
+          b: 868.2459309895834
+          coord_origin: TOPLEFT
+          l: 598.486328125
+          r: 649.951171875
+          t: 819.1783854166666
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 3
+        text: 0.938 0.952
+      - bbox:
+          b: 868.2459309895834
+          coord_origin: TOPLEFT
+          l: 676.513671875
+          r: 727.978515625
+          t: 819.1783854166666
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 3
+        text: 0.904 0.909
+      - bbox:
+          b: 867.414306640625
+          coord_origin: TOPLEFT
+          l: 752.05078125
+          r: 807.666015625
+          t: 818.3467610677084
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 3
+        text: 0.927 0.938
+      - bbox:
+          b: 868.2459309895834
+          coord_origin: TOPLEFT
+          l: 820.1171875
+          r: 874.90234375
+          t: 819.1783854166666
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 3
+        text: 0.853 0.843
+      - bbox:
+          b: 868.2459309895834
+          coord_origin: TOPLEFT
+          l: 913.0859375
+          r: 957.91015625
+          t: 819.1783854166666
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 8
+        end_row_offset_idx: 4
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 7
+        start_row_offset_idx: 3
+        text: 1.97 3.77
+    - - bbox:
+          b: 909.82861328125
+          coord_origin: TOPLEFT
+          l: 332.861328125
+          r: 351.953125
+          t: 883.2156575520834
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 4
+        text: '2'
+      - bbox:
+          b: 907.3336588541666
+          coord_origin: TOPLEFT
+          l: 433.30078125
+          r: 449.90234375
+          t: 884.04736328125
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 4
+        text: '4'
+      - bbox:
+          b: 921.4717610677084
+          coord_origin: TOPLEFT
+          l: 508.837890625
+          r: 570.263671875
+          t: 871.5725911458334
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 4
+        text: OTSL HTML
+      - bbox:
+          b: 923.135009765625
+          coord_origin: TOPLEFT
+          l: 599.31640625
+          r: 648.291015625
+          t: 873.23583984375
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 4
+        text: 0.923 0.945
+      - bbox:
+          b: 923.135009765625
+          coord_origin: TOPLEFT
+          l: 677.34375
+          r: 727.1484375
+          t: 874.0675455729166
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 4
+        text: 0.897 0.901
+      - bbox:
+          b: 921.4717610677084
+          coord_origin: TOPLEFT
+          l: 752.05078125
+          r: 806.8359375
+          t: 874.0675455729166
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 4
+        text: 0.915 0.931
+      - bbox:
+          b: 922.3033854166666
+          coord_origin: TOPLEFT
+          l: 820.1171875
+          r: 874.90234375
+          t: 874.0675455729166
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 4
+        text: 0.859 0.834
+      - bbox:
+          b: 922.3033854166666
+          coord_origin: TOPLEFT
+          l: 913.0859375
+          r: 957.080078125
+          t: 874.0675455729166
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 8
+        end_row_offset_idx: 5
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 7
+        start_row_offset_idx: 4
+        text: 1.91 3.81
+    - - bbox:
+          b: 962.2227376302084
+          coord_origin: TOPLEFT
+          l: 334.521484375
+          r: 351.123046875
+          t: 940.5997721354166
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 1
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 0
+        start_row_offset_idx: 5
+        text: '4'
+      - bbox:
+          b: 962.2227376302084
+          coord_origin: TOPLEFT
+          l: 433.30078125
+          r: 449.072265625
+          t: 939.7681477864584
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 2
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 1
+        start_row_offset_idx: 5
+        text: '2'
+      - bbox:
+          b: 975.5292154947916
+          coord_origin: TOPLEFT
+          l: 508.837890625
+          r: 570.263671875
+          t: 926.461669921875
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 3
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 2
+        start_row_offset_idx: 5
+        text: OTSL HTML
+      - bbox:
+          b: 977.1925455729166
+          coord_origin: TOPLEFT
+          l: 598.486328125
+          r: 649.951171875
+          t: 927.2932942708334
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 4
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 3
+        start_row_offset_idx: 5
+        text: 0.952 0.944
+      - bbox:
+          b: 976.36083984375
+          coord_origin: TOPLEFT
+          l: 677.34375
+          r: 727.978515625
+          t: 928.125
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 5
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 4
+        start_row_offset_idx: 5
+        text: 0.92 0.903
+      - bbox:
+          b: 976.36083984375
+          coord_origin: TOPLEFT
+          l: 751.220703125
+          r: 808.49609375
+          t: 927.2932942708334
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 6
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 5
+        start_row_offset_idx: 5
+        text: 0.942 0.931
+      - bbox:
+          b: 977.1925455729166
+          coord_origin: TOPLEFT
+          l: 819.287109375
+          r: 875.732421875
+          t: 927.2932942708334
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 7
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 6
+        start_row_offset_idx: 5
+        text: 0.857 0.824
+      - bbox:
+          b: 976.36083984375
+          coord_origin: TOPLEFT
+          l: 913.0859375
+          r: 957.91015625
+          t: 928.125
+        col_span: 1
+        column_header: false
+        end_col_offset_idx: 8
+        end_row_offset_idx: 6
+        fillable: false
+        row_header: false
+        row_section: false
+        row_span: 1
+        start_col_offset_idx: 7
+        start_row_offset_idx: 5
+        text: 1.22 2
+    num_cols: 8
+    num_rows: 6
+    table_cells:
+    - bbox:
+        b: 760.1310221354166
+        coord_origin: TOPLEFT
+        l: 296.337890625
+        r: 388.4765625
+        t: 707.7368977864584
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 1
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 2
+      start_col_offset_idx: 0
+      start_row_offset_idx: 0
+      text: '# enc-layers'
+    - bbox:
+        b: 760.1310221354166
+        coord_origin: TOPLEFT
+        l: 395.947265625
+        r: 488.0859375
+        t: 707.7368977864584
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 2
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 2
+      start_col_offset_idx: 1
+      start_row_offset_idx: 0
+      text: '# dec-layers'
+    - bbox:
+        b: 731.023193359375
+        coord_origin: TOPLEFT
+        l: 672.36328125
+        r: 729.638671875
+        t: 707.7368977864584
+      col_span: 3
+      column_header: true
+      end_col_offset_idx: 6
+      end_row_offset_idx: 1
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 0
+      text: TEDs
+    - bbox:
+        b: 755.9727376302084
+        coord_origin: TOPLEFT
+        l: 820.947265625
+        r: 874.90234375
+        t: 707.7368977864584
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 7
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 2
+      start_col_offset_idx: 6
+      start_row_offset_idx: 0
+      text: mAP (0.75)
+    - bbox:
+        b: 755.9727376302084
+        coord_origin: TOPLEFT
+        l: 885.693359375
+        r: 983.642578125
+        t: 707.7368977864584
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 8
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 2
+      start_col_offset_idx: 7
+      start_row_offset_idx: 0
+      text: Inference time (secs)
+    - bbox:
+        b: 747.65625
+        coord_origin: TOPLEFT
+        l: 493.06640625
+        r: 584.375
+        t: 718.54833984375
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 3
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 2
+      start_col_offset_idx: 2
+      start_row_offset_idx: 0
+      text: Language
+    - bbox:
+        b: 759.2993977864584
+        coord_origin: TOPLEFT
+        l: 593.505859375
+        r: 654.1015625
+        t: 736.0131022135416
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 4
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 1
+      text: simple
+    - bbox:
+        b: 757.6360677083334
+        coord_origin: TOPLEFT
+        l: 662.40234375
+        r: 742.08984375
+        t: 737.6763509114584
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 5
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 1
+      text: complex
+    - bbox:
+        b: 758.4676920572916
+        coord_origin: TOPLEFT
+        l: 765.33203125
+        r: 795.21484375
+        t: 735.181396484375
+      col_span: 1
+      column_header: true
+      end_col_offset_idx: 6
+      end_row_offset_idx: 2
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 1
+      text: all
+    - bbox:
+        b: 811.6935221354166
+        coord_origin: TOPLEFT
+        l: 508.0078125
+        r: 571.09375
+        t: 762.6259765625
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 2
+      text: OTSL HTML
+    - bbox:
+        b: 811.6935221354166
+        coord_origin: TOPLEFT
+        l: 598.486328125
+        r: 649.12109375
+        t: 764.289306640625
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 2
+      text: 0.965 0.969
+    - bbox:
+        b: 813.3568522135416
+        coord_origin: TOPLEFT
+        l: 676.513671875
+        r: 728.80859375
+        t: 764.289306640625
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 2
+      text: 0.934 0.927
+    - bbox:
+        b: 813.3568522135416
+        coord_origin: TOPLEFT
+        l: 754.541015625
+        r: 805.17578125
+        t: 762.6259765625
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 2
+      text: 0.955 0.955
+    - bbox:
+        b: 813.3568522135416
+        coord_origin: TOPLEFT
+        l: 821.77734375
+        r: 872.412109375
+        t: 764.289306640625
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 2
+      text: 0.88 0.857
+    - bbox:
+        b: 813.3568522135416
+        coord_origin: TOPLEFT
+        l: 912.255859375
+        r: 959.5703125
+        t: 762.6259765625
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 8
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 7
+      start_row_offset_idx: 2
+      text: 2.73 5.39
+    - bbox:
+        b: 796.7237955729166
+        coord_origin: TOPLEFT
+        l: 334.521484375
+        r: 351.123046875
+        t: 775.1007486979166
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 2
+      text: '6'
+    - bbox:
+        b: 796.7237955729166
+        coord_origin: TOPLEFT
+        l: 433.30078125
+        r: 449.90234375
+        t: 774.2691243489584
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 3
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 2
+      text: '6'
+    - bbox:
+        b: 866.5826009114584
+        coord_origin: TOPLEFT
+        l: 508.0078125
+        r: 569.43359375
+        t: 819.1783854166666
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 3
+      text: OTSL HTML
+    - bbox:
+        b: 868.2459309895834
+        coord_origin: TOPLEFT
+        l: 598.486328125
+        r: 649.951171875
+        t: 819.1783854166666
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 3
+      text: 0.938 0.952
+    - bbox:
+        b: 868.2459309895834
+        coord_origin: TOPLEFT
+        l: 676.513671875
+        r: 727.978515625
+        t: 819.1783854166666
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 3
+      text: 0.904 0.909
+    - bbox:
+        b: 867.414306640625
+        coord_origin: TOPLEFT
+        l: 752.05078125
+        r: 807.666015625
+        t: 818.3467610677084
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 3
+      text: 0.927 0.938
+    - bbox:
+        b: 868.2459309895834
+        coord_origin: TOPLEFT
+        l: 820.1171875
+        r: 874.90234375
+        t: 819.1783854166666
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 3
+      text: 0.853 0.843
+    - bbox:
+        b: 868.2459309895834
+        coord_origin: TOPLEFT
+        l: 913.0859375
+        r: 957.91015625
+        t: 819.1783854166666
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 8
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 7
+      start_row_offset_idx: 3
+      text: 1.97 3.77
+    - bbox:
+        b: 852.4444986979166
+        coord_origin: TOPLEFT
+        l: 334.521484375
+        r: 351.123046875
+        t: 830.821533203125
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 3
+      text: '4'
+    - bbox:
+        b: 852.4444986979166
+        coord_origin: TOPLEFT
+        l: 433.30078125
+        r: 450.732421875
+        t: 829.9899088541666
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 4
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 3
+      text: '4'
+    - bbox:
+        b: 921.4717610677084
+        coord_origin: TOPLEFT
+        l: 508.837890625
+        r: 570.263671875
+        t: 871.5725911458334
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 4
+      text: OTSL HTML
+    - bbox:
+        b: 923.135009765625
+        coord_origin: TOPLEFT
+        l: 599.31640625
+        r: 648.291015625
+        t: 873.23583984375
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 4
+      text: 0.923 0.945
+    - bbox:
+        b: 923.135009765625
+        coord_origin: TOPLEFT
+        l: 677.34375
+        r: 727.1484375
+        t: 874.0675455729166
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 4
+      text: 0.897 0.901
+    - bbox:
+        b: 921.4717610677084
+        coord_origin: TOPLEFT
+        l: 752.05078125
+        r: 806.8359375
+        t: 874.0675455729166
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 4
+      text: 0.915 0.931
+    - bbox:
+        b: 922.3033854166666
+        coord_origin: TOPLEFT
+        l: 820.1171875
+        r: 874.90234375
+        t: 874.0675455729166
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 4
+      text: 0.859 0.834
+    - bbox:
+        b: 922.3033854166666
+        coord_origin: TOPLEFT
+        l: 913.0859375
+        r: 957.080078125
+        t: 874.0675455729166
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 8
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 7
+      start_row_offset_idx: 4
+      text: 1.91 3.81
+    - bbox:
+        b: 909.82861328125
+        coord_origin: TOPLEFT
+        l: 332.861328125
+        r: 351.953125
+        t: 883.2156575520834
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 4
+      text: '2'
+    - bbox:
+        b: 907.3336588541666
+        coord_origin: TOPLEFT
+        l: 433.30078125
+        r: 449.90234375
+        t: 884.04736328125
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 5
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 4
+      text: '4'
+    - bbox:
+        b: 975.5292154947916
+        coord_origin: TOPLEFT
+        l: 508.837890625
+        r: 570.263671875
+        t: 926.461669921875
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 3
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 2
+      start_row_offset_idx: 5
+      text: OTSL HTML
+    - bbox:
+        b: 977.1925455729166
+        coord_origin: TOPLEFT
+        l: 598.486328125
+        r: 649.951171875
+        t: 927.2932942708334
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 4
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 3
+      start_row_offset_idx: 5
+      text: 0.952 0.944
+    - bbox:
+        b: 976.36083984375
+        coord_origin: TOPLEFT
+        l: 677.34375
+        r: 727.978515625
+        t: 928.125
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 5
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 4
+      start_row_offset_idx: 5
+      text: 0.92 0.903
+    - bbox:
+        b: 976.36083984375
+        coord_origin: TOPLEFT
+        l: 751.220703125
+        r: 808.49609375
+        t: 927.2932942708334
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 6
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 5
+      start_row_offset_idx: 5
+      text: 0.942 0.931
+    - bbox:
+        b: 977.1925455729166
+        coord_origin: TOPLEFT
+        l: 819.287109375
+        r: 875.732421875
+        t: 927.2932942708334
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 7
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 6
+      start_row_offset_idx: 5
+      text: 0.857 0.824
+    - bbox:
+        b: 976.36083984375
+        coord_origin: TOPLEFT
+        l: 913.0859375
+        r: 957.91015625
+        t: 928.125
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 8
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 7
+      start_row_offset_idx: 5
+      text: 1.22 2
+    - bbox:
+        b: 962.2227376302084
+        coord_origin: TOPLEFT
+        l: 334.521484375
+        r: 351.123046875
+        t: 940.5997721354166
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 1
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 0
+      start_row_offset_idx: 5
+      text: '4'
+    - bbox:
+        b: 962.2227376302084
+        coord_origin: TOPLEFT
+        l: 433.30078125
+        r: 449.072265625
+        t: 939.7681477864584
+      col_span: 1
+      column_header: false
+      end_col_offset_idx: 2
+      end_row_offset_idx: 6
+      fillable: false
+      row_header: false
+      row_section: false
+      row_span: 1
+      start_col_offset_idx: 1
+      start_row_offset_idx: 5
+      text: '2'
+  footnotes: []
+  label: table
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 671.4735717773438
+      coord_origin: BOTTOMLEFT
+      l: 291.0673828125
+      r: 989.3673706054688
+      t: 947.557373046875
+    charspan:
+    - 0
+    - 0
+    page_no: 1
+  references: []
+  self_ref: '#/tables/0'
+texts:
+- children: []
+  content_layer: furniture
+  label: page_header
+  orig: Optimized Table Tokenization for TableStructureRecognition
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 1434.601826985677
+      coord_origin: BOTTOMLEFT
+      l: 404.248046875
+      r: 934.66796875
+      t: 1456.2248128255208
+    charspan:
+    - 0
+    - 58
+    page_no: 1
+  self_ref: '#/texts/0'
+  text: Optimized Table Tokenization for TableStructureRecognition
+- children: []
+  content_layer: furniture
+  label: page_header
+  orig: '9'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 1437.0967814127605
+      coord_origin: BOTTOMLEFT
+      l: 990.283203125
+      r: 1003.564453125
+      t: 1454.561503092448
+    charspan:
+    - 0
+    - 1
+    page_no: 1
+  self_ref: '#/texts/1'
+  text: '9'
+- children: []
+  content_layer: body
+  label: text
+  orig: order to compute the TED score. Inference timing results for all experiments
+    were obtained from the same machine on a single core with AMD EPYC 7763 CPU @2.45GHz.
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 1331.476826985677
+      coord_origin: BOTTOMLEFT
+      l: 275.5859375
+      r: 1005.224609375
+      t: 1404.6623128255208
+    charspan:
+    - 0
+    - 162
+    page_no: 1
+  self_ref: '#/texts/2'
+  text: order to compute the TED score. Inference timing results for all experiments
+    were obtained from the same machine on a single core with AMD EPYC 7763 CPU @2.45GHz.
+- children: []
+  content_layer: body
+  label: section_header
+  level: 1
+  orig: 5.1 Hyper Parameter Optimization
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 1276.5877278645833
+      coord_origin: BOTTOMLEFT
+      l: 278.90625
+      r: 666.552734375
+      t: 1300.7056477864583
+    charspan:
+    - 0
+    - 32
+    page_no: 1
+  self_ref: '#/texts/3'
+  text: 5.1 Hyper Parameter Optimization
+- children: []
+  content_layer: body
+  label: text
+  orig: We have chosen the PubTabNet data set to perform HPO, since it includes a
+    highly diverse set of tables. Also we report TED scores separately for simple
+    and complex tables (tables with cell spans). Results are presented in Table.  It
+    is better mAP scores in comparison to HTML. However OTSL yields a 2r speed up
+    in the inference runtime over HTML.
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 1117.741943359375
+      coord_origin: BOTTOMLEFT
+      l: 278.076171875
+      r: 1006.884765625
+      t: 1268.2711995442708
+    charspan:
+    - 0
+    - 346
+    page_no: 1
+  self_ref: '#/texts/4'
+  text: We have chosen the PubTabNet data set to perform HPO, since it includes a
+    highly diverse set of tables. Also we report TED scores separately for simple
+    and complex tables (tables with cell spans). Results are presented in Table.  It
+    is better mAP scores in comparison to HTML. However OTSL yields a 2r speed up
+    in the inference runtime over HTML.
+- children: []
+  content_layer: body
+  label: caption
+  orig: 'Table 1.HPO performed in OTSL and HTML representation on the same transformer-based
+    TableFormer  architecture, trained only on PubTabNet 22]. Effects of reducing
+    the # of layers in encoder and decoder stages of the model show that smaller models
+    trained on OTSL perform better, especially in recognizing complex table structures,
+    and maintain a much higher mAP score than the HTML counterpart.'
+  parent:
+    $ref: '#/tables/0'
+  prov:
+  - bbox:
+      b: 964.7177734375
+      coord_origin: BOTTOMLEFT
+      l: 276.416015625
+      r: 1006.0546875
+      t: 1081.149210611979
+    charspan:
+    - 0
+    - 393
+    page_no: 1
+  self_ref: '#/texts/5'
+  text: 'Table 1.HPO performed in OTSL and HTML representation on the same transformer-based
+    TableFormer  architecture, trained only on PubTabNet 22]. Effects of reducing
+    the # of layers in encoder and decoder stages of the model show that smaller models
+    trained on OTSL perform better, especially in recognizing complex table structures,
+    and maintain a much higher mAP score than the HTML counterpart.'
+- children: []
+  content_layer: body
+  label: section_header
+  level: 1
+  orig: 5.2 QuantitativeResults
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 571.3457845052083
+      coord_origin: BOTTOMLEFT
+      l: 278.90625
+      r: 553.662109375
+      t: 594.632080078125
+    charspan:
+    - 0
+    - 23
+    page_no: 1
+  self_ref: '#/texts/6'
+  text: 5.2 QuantitativeResults
+- children: []
+  content_layer: body
+  label: text
+  orig: 'We picked the model parameter configuration that produced the best prediction
+    quality (enc=6, dec=6, heads=8) with PubTabNet alone, then independently trained
+    and evaluated it on three publicly available data sets: PubTabNet (395k samples),
+    FinTabNet (113k samples) and PubTables-1M (about 1M samples). Performance results
+    are presented in Table. 2 It is clearly evident that the model trained on OTSL
+    outperforms HTML across the board, keeping high TEDs and mAP scores even on difficult
+    financial tables (FinTabNet) that contain sparse andlargetables.'
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 361.76920572916674
+      coord_origin: BOTTOMLEFT
+      l: 275.5859375
+      r: 1006.0546875
+      t: 559.70263671875
+    charspan:
+    - 0
+    - 552
+    page_no: 1
+  self_ref: '#/texts/7'
+  text: 'We picked the model parameter configuration that produced the best prediction
+    quality (enc=6, dec=6, heads=8) with PubTabNet alone, then independently trained
+    and evaluated it on three publicly available data sets: PubTabNet (395k samples),
+    FinTabNet (113k samples) and PubTables-1M (about 1M samples). Performance results
+    are presented in Table. 2 It is clearly evident that the model trained on OTSL
+    outperforms HTML across the board, keeping high TEDs and mAP scores even on difficult
+    financial tables (FinTabNet) that contain sparse andlargetables.'
+- children: []
+  content_layer: body
+  label: text
+  orig: Additionally, the results show that OTSL has an advantage over HTML when applied
+    on a bigger data set like PubTables-1M and achieves significantly improved scores.
+    Finally, OTSL achieves faster inference due to fewer decoding steps which is a
+    result of the reduced sequence representation.
+  parent:
+    $ref: '#/body'
+  prov:
+  - bbox:
+      b: 261.13916015625
+      coord_origin: BOTTOMLEFT
+      l: 278.076171875
+      r: 1004.39453125
+      t: 360.93758138020826
+    charspan:
+    - 0
+    - 289
+    page_no: 1
+  self_ref: '#/texts/8'
+  text: Additionally, the results show that OTSL has an advantage over HTML when applied
+    on a bigger data set like PubTables-1M and achieves significantly improved scores.
+    Finally, OTSL achieves faster inference due to fewer decoding steps which is a
+    result of the reduced sequence representation.
+version: 1.10.0
